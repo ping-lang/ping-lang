@@ -1,5 +1,5 @@
 ---
-id: language-grammar
+id: language grammar
 title: Language Grammar
 sidebar_label: Language Grammar
 slug: /

@@ -12,10 +12,6 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: 'Ping Programming Language',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
       items: [
         {
           to: 'docs/',
@@ -25,7 +21,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/ping-lang/ping-lang.github.io',
           label: 'GitHub',
           position: 'right',
         },
