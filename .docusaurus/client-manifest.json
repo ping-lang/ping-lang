@@ -1,0 +1,515 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "0": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      14,
+      21,
+      27,
+      28,
+      37,
+      0
+    ],
+    "1": [
+      0,
+      2,
+      5,
+      6,
+      14,
+      21,
+      28,
+      1
+    ],
+    "styles": [
+      0,
+      1,
+      5,
+      27,
+      34,
+      35,
+      2
+    ],
+    "@theme/BlogTagsListPage": [
+      0,
+      3
+    ],
+    "~blog/default/ping-blog-tags-hello-38e.json": [
+      4
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      2,
+      37
+    ],
+    "@theme/NotFound": [
+      0,
+      37
+    ],
+    "@theme/MDXPage": [
+      0,
+      1,
+      6
+    ],
+    "@site/blog/2019-05-30-welcome.md": [
+      7
+    ],
+    "@site/blog/2019-05-29-hello-world.md?truncated=true": [
+      8
+    ],
+    "@site/src/pages/markdown-page.md": [
+      9
+    ],
+    "~blog/default/ping-blog-tags-tags-7eb.json": [
+      10
+    ],
+    "~blog/default/ping-blog-tags-facebook-4d4.json": [
+      11
+    ],
+    "@site/blog/2020-04-14-large-blog-post.md": [
+      12
+    ],
+    "@site/docs/doc3.md": [
+      13
+    ],
+    "@theme/BlogTagsPostsPage": [
+      0,
+      1,
+      14
+    ],
+    "~blog/default/ping-blog-60c.json": [
+      15
+    ],
+    "~blog/default/ping-blog-tags-hola-009.json": [
+      16
+    ],
+    "@site/blog/2020-04-14-large-blog-post.md?truncated=true": [
+      17
+    ],
+    "@site/blog/2019-05-28-hola.md?truncated=true": [
+      18
+    ],
+    "~docs/default/version-current-metadata-prop-751.json": [
+      19
+    ],
+    "~blog/default/ping-blog-tags-blog-dbe.json": [
+      20
+    ],
+    "@theme/BlogListPage": [
+      0,
+      1,
+      21
+    ],
+    "@site/docs/interactiveDoc.mdx": [
+      22
+    ],
+    "@site/blog/2019-05-30-welcome.md?truncated=true": [
+      23
+    ],
+    "@site/docs/doc1.md": [
+      24
+    ],
+    "~blog/default/ping-blog-tags-docusaurus-7d6.json": [
+      25
+    ],
+    "@site/blog/2019-05-28-hola.md": [
+      26
+    ],
+    "@site/src/pages/index.js": [
+      0,
+      2,
+      27
+    ],
+    "@theme/BlogPostPage": [
+      0,
+      1,
+      28
+    ],
+    "@site/blog/2019-05-29-hello-world.md": [
+      29
+    ],
+    "@site/docs/doc2.md": [
+      30
+    ],
+    "@site/blog/2020-04-14-blog-plugin.md": [
+      31
+    ],
+    "/home/krishna/docs/.docusaurus/docusaurus-plugin-content-blog/default/blog-post-list-prop-default.json": [
+      32
+    ],
+    "@site/blog/2020-04-14-blog-plugin.md?truncated=true": [
+      33
+    ],
+    "@generated/docusaurus.config": [
+      2,
+      35,
+      34
+    ],
+    "main": [
+      2,
+      35,
+      34
+    ],
+    "runtime~main": [
+      2,
+      34,
+      35
+    ],
+    "@theme/DocItem": [
+      36
+    ]
+  },
+  "assets": {
+    "0": {
+      "js": [
+        {
+          "file": "assets/js/0.07e9111c.js",
+          "hash": "c4e0bb5254dfb218cfac",
+          "publicPath": "/ping/assets/js/0.07e9111c.js"
+        }
+      ]
+    },
+    "1": {
+      "js": [
+        {
+          "file": "assets/js/1.b65eaee0.js",
+          "hash": "c6053e2da7799a6ac978",
+          "publicPath": "/ping/assets/js/1.b65eaee0.js"
+        }
+      ]
+    },
+    "2": {
+      "css": [
+        {
+          "file": "assets/css/styles.29300f59.css",
+          "hash": "91252f6d3073b0c08c88",
+          "publicPath": "/ping/assets/css/styles.29300f59.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "assets/js/styles.da7bb8fb.js",
+          "hash": "91252f6d3073b0c08c88",
+          "publicPath": "/ping/assets/js/styles.da7bb8fb.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.753ac6e4.js",
+          "hash": "fcd4311f45620f3b4747",
+          "publicPath": "/ping/assets/js/01a85c17.753ac6e4.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "assets/js/06b7115e.f33833fa.js",
+          "hash": "1efd543354ae222206ad",
+          "publicPath": "/ping/assets/js/06b7115e.f33833fa.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.481b999f.js",
+          "hash": "d0793fcc46a58cc189b3",
+          "publicPath": "/ping/assets/js/1f391b9e.481b999f.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "assets/js/2868cdab.4f92337e.js",
+          "hash": "aead9f29c05fea41d57d",
+          "publicPath": "/ping/assets/js/2868cdab.4f92337e.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "assets/js/3570154c.8372e7d1.js",
+          "hash": "c995f8f7956d34d5a39a",
+          "publicPath": "/ping/assets/js/3570154c.8372e7d1.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "assets/js/393be207.d787150c.js",
+          "hash": "ec1394d77d139e1caef5",
+          "publicPath": "/ping/assets/js/393be207.d787150c.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "assets/js/48dc67e7.1f4cbf59.js",
+          "hash": "a2e0d0c1a95bd936f75d",
+          "publicPath": "/ping/assets/js/48dc67e7.1f4cbf59.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "assets/js/4b860a8b.2316a921.js",
+          "hash": "3d1a7b45052e2b2f0646",
+          "publicPath": "/ping/assets/js/4b860a8b.2316a921.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "assets/js/59e7d700.ca6655ec.js",
+          "hash": "7fc3534923d5df1462fb",
+          "publicPath": "/ping/assets/js/59e7d700.ca6655ec.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "assets/js/616665f6.13f821a5.js",
+          "hash": "9336c78e1f1ddd4af902",
+          "publicPath": "/ping/assets/js/616665f6.13f821a5.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.d100fb19.js",
+          "hash": "717294fee333fb6afa0c",
+          "publicPath": "/ping/assets/js/6875c492.d100fb19.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "assets/js/703c350a.f0d2ecf2.js",
+          "hash": "4f5fec490382e0fe099d",
+          "publicPath": "/ping/assets/js/703c350a.f0d2ecf2.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "assets/js/74cb4739.e6c7f9a5.js",
+          "hash": "d85b6071ead235381665",
+          "publicPath": "/ping/assets/js/74cb4739.e6c7f9a5.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "assets/js/804cc426.11e2306e.js",
+          "hash": "82c1bbfda1808b50ba04",
+          "publicPath": "/ping/assets/js/804cc426.11e2306e.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "assets/js/8e9f0a8a.f137321a.js",
+          "hash": "e4cb29e472b1e31d262d",
+          "publicPath": "/ping/assets/js/8e9f0a8a.f137321a.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.252948fe.js",
+          "hash": "bf6e455408dfa0126d9d",
+          "publicPath": "/ping/assets/js/935f2afb.252948fe.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "assets/js/9606f2ec.a2bc52fc.js",
+          "hash": "c32a73f2cea1c4d62c84",
+          "publicPath": "/ping/assets/js/9606f2ec.a2bc52fc.js"
+        }
+      ]
+    },
+    "21": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.6e174ecc.js",
+          "hash": "d9cfcf6773881412d4d2",
+          "publicPath": "/ping/assets/js/a6aa9e1f.6e174ecc.js"
+        }
+      ]
+    },
+    "22": {
+      "js": [
+        {
+          "file": "assets/js/a6f37e87.531a232e.js",
+          "hash": "e5c45054ac893adc1404",
+          "publicPath": "/ping/assets/js/a6f37e87.531a232e.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "assets/js/af172acd.232614c7.js",
+          "hash": "1a9feb1d36c5c9a06637",
+          "publicPath": "/ping/assets/js/af172acd.232614c7.js"
+        }
+      ]
+    },
+    "24": {
+      "js": [
+        {
+          "file": "assets/js/b2f90839.f6ef7823.js",
+          "hash": "9bcd59d1e8bf20300495",
+          "publicPath": "/ping/assets/js/b2f90839.f6ef7823.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "assets/js/b7d89476.ea2c228d.js",
+          "hash": "4d791495be078b9619b3",
+          "publicPath": "/ping/assets/js/b7d89476.ea2c228d.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "assets/js/bdd709f1.f24547cd.js",
+          "hash": "c00c35d02af7fe6a4eb2",
+          "publicPath": "/ping/assets/js/bdd709f1.f24547cd.js"
+        }
+      ]
+    },
+    "27": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.73fee9a5.js",
+          "hash": "d393285f081015c05898",
+          "publicPath": "/ping/assets/js/c4f5d8e4.73fee9a5.js"
+        }
+      ]
+    },
+    "28": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.d08339b1.js",
+          "hash": "0627be571efa7be7836b",
+          "publicPath": "/ping/assets/js/ccc49370.d08339b1.js"
+        }
+      ]
+    },
+    "29": {
+      "js": [
+        {
+          "file": "assets/js/d610846f.441a7f72.js",
+          "hash": "aec1641e651840a934bc",
+          "publicPath": "/ping/assets/js/d610846f.441a7f72.js"
+        }
+      ]
+    },
+    "30": {
+      "js": [
+        {
+          "file": "assets/js/df361e2b.49c75866.js",
+          "hash": "2cfeca61c2496cc804f8",
+          "publicPath": "/ping/assets/js/df361e2b.49c75866.js"
+        }
+      ]
+    },
+    "31": {
+      "js": [
+        {
+          "file": "assets/js/e0bdefcd.493da87d.js",
+          "hash": "389218e3fe4ad2e4c72e",
+          "publicPath": "/ping/assets/js/e0bdefcd.493da87d.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "assets/js/eb0835d9.77d8cc94.js",
+          "hash": "919c8895a33507d30dc1",
+          "publicPath": "/ping/assets/js/eb0835d9.77d8cc94.js"
+        }
+      ]
+    },
+    "33": {
+      "js": [
+        {
+          "file": "assets/js/fd336f25.38161ff1.js",
+          "hash": "23f779c9d7bd6988ff5e",
+          "publicPath": "/ping/assets/js/fd336f25.38161ff1.js"
+        }
+      ]
+    },
+    "34": {
+      "js": [
+        {
+          "file": "assets/js/main.6e1ba84e.js",
+          "hash": "1eefa1584d560bd9ebe0",
+          "publicPath": "/ping/assets/js/main.6e1ba84e.js"
+        }
+      ]
+    },
+    "35": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.b2b8d22f.js",
+          "hash": "f8efedc667fd473e34c6",
+          "publicPath": "/ping/assets/js/runtime~main.b2b8d22f.js"
+        }
+      ]
+    },
+    "36": {
+      "js": [
+        {
+          "file": "assets/js/36.040d3407.js",
+          "hash": "3bd235ecd4f1725f82ca",
+          "publicPath": "/ping/assets/js/36.040d3407.js"
+        }
+      ]
+    },
+    "37": {
+      "js": [
+        {
+          "file": "assets/js/1be78505.f896aa11.js",
+          "hash": "13fe00a7fc2705cd3865",
+          "publicPath": "/ping/assets/js/1be78505.f896aa11.js"
+        },
+        {
+          "file": "assets/js/37.c8f343b9.js",
+          "hash": "29e018a0eb1a404cfa51",
+          "publicPath": "/ping/assets/js/37.c8f343b9.js"
+        }
+      ]
+    }
+  }
+}

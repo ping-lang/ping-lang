@@ -1,0 +1,21 @@
+{
+  "unversionedId": "doc2",
+  "id": "doc2",
+  "isDocsHomePage": false,
+  "title": "Types",
+  "description": "Types in ping programming language",
+  "source": "@site/docs/doc2.md",
+  "slug": "/doc2",
+  "permalink": "/ping/docs/doc2",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc2.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Language Grammar",
+    "permalink": "/ping/docs/"
+  },
+  "next": {
+    "title": "Features",
+    "permalink": "/ping/docs/doc3"
+  }
+}

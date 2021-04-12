@@ -1,0 +1,18 @@
+{
+  "unversionedId": "doc1",
+  "id": "doc1",
+  "isDocsHomePage": false,
+  "title": "Language Grammar",
+  "description": "Language Grammar",
+  "source": "@site/docs/doc1.md",
+  "slug": "/",
+  "permalink": "/ping/docs/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
+  "version": "current",
+  "sidebar_label": "Language Grammar",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Types",
+    "permalink": "/ping/docs/doc2"
+  }
+}
